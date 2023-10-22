@@ -1,6 +1,7 @@
 # PFD-Experince-Blog
 
 Week 1 (22.10.2023)
+
 [Group]
 Progress: Planing
 Meetings: 
