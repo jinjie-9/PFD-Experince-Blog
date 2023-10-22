@@ -17,3 +17,7 @@ Week 1 (22.10.2023)
 * What went wrong: We did not research much about OCBC
 * What could done better: Always come prepared before out meetings 
 * My feelings: Confused, Anxious, Miserable 
+
+[Evidence]
+
+![Screenshot (93)](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/8a08afa0-37b8-48b5-b466-a877ad5d8837)
