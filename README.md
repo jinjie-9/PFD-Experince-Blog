@@ -35,3 +35,31 @@ To enhance our productivity, it is essential for every team member to come to me
 
 Emotionally, I experienced confusion and anxiety during this first week, primarily due to the initial challenges we faced. However, I acknowledge that these emotions are part of the project development process. With better planning, communication, and a structured timeline, I am confident that our team can overcome these initial hurdles and make substantial progress in the coming weeks. Challenges are inherent in any project, but addressing them head-on can transform them into opportunities for growth and success.
 
+## Week 2 (29.10.2023)
+
+[Group]
+* Progress: 
+  - Planning
+  - Target Audience (Elderly)
+  - OCBC Features: 2nd Party Guarantor (Main Focus)
+* Contribution:
+    - Inception Deck
+    - Research how building up a Microsoft Database
+* Problem Encoutered: Encountered problem to start and come out with wireframe and outframe of database 
+
+
+[Person]
+* What went right: Focus on Elderly with illiteracy, As of now all the Scrum Event are within the TimeBox
+* What went wrong: Slow progress on developing the outframe of our project
+* What could done better: Always plan for the following in advance so that we will not be so worry about the near coming future
+* My feelings: Motivated, Worried
+
+[Evidence]
+
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/5a662676-45ac-4d31-b45e-36c90ca896c0)
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/c19fa856-9f79-4cf9-a107-faddc806184c)
+
+
+[Reflection]
+
+At week 2, our project team demonstrated a commendable commitment to addressing the needs of the elderly with a specific focus on those with illiteracy, which is a significant accomplishment. Despite the challenges we faced, particularly in the slow progress of developing the outframe of our project, we managed to maintain all our Scrum events within the designated timeframes, showcasing our dedication to an efficient workflow. However, it's evident that our planning and resource allocation could have been more meticulous, as the development of the database structure proved more complex than anticipated. Moving forward, we should prioritize in-depth planning and early resource allocation to avoid similar delays. As we enter Week 3, I'm both motivated by our team's commitment and slightly concerned about the need to pick up the pace in certain areas. Nevertheless, these emotions serve as catalysts for our continuous improvement, and I have full confidence that we can overcome challenges and make steady progress towards our project's goals.
