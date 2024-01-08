@@ -70,7 +70,7 @@ At week 2, our project team demonstrated a commendable commitment to addressing 
 
 [Group]
 * Progress: 
-  - Target Audience (Elderly)
+  - Target Audience (Illiterate Elderly)
   - OCBC Features: 2nd Party Guarantor (Main Focus)
 * Contribution:
     - Create a SQL Database
@@ -111,7 +111,7 @@ As we continue our work, let's carry our ambition and hope forward, addressing c
 
 [Group]
 * Progress: 
-  - Target Audience (Elderly)
+  - Target Audience (Illiterate Elderly)
   - OCBC Features: 2nd Party Guarantor (Discussion Details Pharse) 
 * Contribution:
     - WireFrame for website (Do together with Travelle)
@@ -135,7 +135,7 @@ As we delved into the intricacies of Week 4, our team diligently honed our focus
 
 [Group]
 * Progress: 
-  - Target Audience (Elderly)
+  - Target Audience (Illiterate Elderly)
   - OCBC Features: 2nd Party Guarantor (Development Pharse) 
 * Contribution:
     - WireFrame for website (Do together with Travelle)
@@ -160,7 +160,7 @@ As we delved into the intricacies of Week 4, our team diligently honed our focus
 
 [Group]
 * Progress: 
-  - Target Audience (Elderly)
+  - Target Audience (Illiterate Elderly)
   - OCBC Features: 2nd Party Guarantor (Development Pharse) 
 * Contribution:
     - Add/Remove Customer Guarantor (Backed-End)
@@ -182,7 +182,46 @@ As we delved into the intricacies of Week 4, our team diligently honed our focus
 
 
 [Reflection]
-As we delved into the intricacies of Week 4, our team diligently honed our focus on catering to the specific needs of our target audience—the elderly—while simultaneously exploring the integration possibilities of OCBC's 2nd Party Guarantor feature. Collaborating alongside Travelle, we embarked on crafting website wireframes, a collaborative effort that not only manifested tangible design blueprints but also fostered a deeper collective understanding of the intricate balance between aesthetics and functionality. This concerted effort proved invaluable as it equipped each member of our development team with a clearer vision and comprehension of the overarching architecture of our main feature. However, amidst our strides, an unmistakable realization dawned upon us—we needed to amplify our efficiency in the project's progression. The pace didn't quite align with our aspirations, prompting a deliberate introspection into our methodologies and workflow. Enhancing communication channels and establishing a regular update rhythm emerged as pivotal focal points for refinement. Nevertheless, amidst the contemplation and adjustments, the prevailing sentiments within the team remained resolutely positive. Ambition, happiness, and hopefulness have become the bedrock of our collective ethos. This buoyant atmosphere not only fuels our motivation but also underscores our shared dedication to the project's success. Reflecting on this dynamic interplay, I am driven to further fine-tune our strategies and foster an environment of seamless collaboration, thereby ensuring synchronized efforts and heightened productivity in the subsequent phases. The journey has been illuminating, and with these insights, we stand poised to steer our group towards greater efficiency and collective accomplishment.
+As we delved into the intricacies of Week 5, this week saw notable progress in our project focused on catering to the illiterate elderly audience. Our team diligently delved into understanding our target audience's needs while concurrently advancing the developmental phase of the OCBC feature regarding the 2nd Party Guarantor. Each developer showcased a deeper comprehension of our primary feature's scope, streamlining our pathway towards its development. Furthermore, establishing clear role delineations within the team has enhanced our operational efficiency, ensuring a smoother developmental process. However, challenges surfaced regarding the pace and efficiency of our project development, signifying a need for heightened productivity. To address this, maintaining consistent and transparent communication among team members is paramount. Regular updates and synchronized progress checks can bridge any gaps and accelerate our developmental momentum. Despite these hurdles, a sense of ambition, happiness, and hopefulness prevails within the team, fostering an optimistic outlook towards overcoming obstacles and achieving our project goals.
+
+
+
+
+## Week 12 (02.01.2024)
+
+[Group]
+* Progress: 
+  - Target Audience (Illiterate  Elderly)
+  - Thinking of new feature that can be include in our website
+* Contribution:
+    - Research on new feature to add for our webiste
+
+
+[Person]
+* What went right: Initiating the discussion about adding a new feature to the website demonstrates a proactive approach towards improving user experience.
+* What went wrong: It's not explicitly mentioned, but if there were no clear ideas generated or if the discussion didn't lead to a consensus on potential new features, that could be seen as a challenge.
+* What could done better:
+  - Encouraging more active participation from all members could foster a wider range of ideas. Perhaps using brainstorming techniques or allowing everyone to voice their thoughts could be beneficial.
+  - Considering the specific needs and limitations of the illiterate elderly audience might need more detailed research. Engaging experts or conducting interviews/surveys directly with this demographic could 
+    offer valuable insights.
+  - Setting clear goals and objectives for the new feature could guide the discussion towards more concrete outcomes.
+* My feelings: Ambitious, Happy, Hopeful 
+
+[Evidence]
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/6cd783d8-c196-4dce-beaf-8ac3ffe09e27)
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/38f1530a-8788-42a2-af93-df0ecff07ef3)
+
+
+
+
+
+
+[Reflection]
+Throughout this week, our team actively pursued the goal of improving our website to better accommodate the needs of the illiterate elderly audience. The proactive step of initiating discussions about integrating a new feature was a commendable move, reflecting our commitment to evolving our platform for enhanced user experience. However, while the initiative to brainstorm new features was a positive start, there's an opportunity for broader participation within the team. Encouraging everyone to actively contribute their ideas might yield a more comprehensive range of potential features, ensuring inclusivity in our decision-making process. Moreover, realizing the importance of understanding the nuanced challenges and preferences of our target demographic, we recognize the necessity of conducting deeper research. Engaging with experts or directly interacting with the illiterate elderly through interviews or surveys could unearth invaluable insights guiding our feature development. Clarity in defining specific objectives for this new feature will be pivotal in steering discussions towards actionable outcomes. Despite these areas for refinement, the week left a resonating feeling of ambition, happiness, and hopefulness within our team, underscoring our dedication to continually enhancing our platform for our audience's benefit.
+
+
+
+
 
 
 
