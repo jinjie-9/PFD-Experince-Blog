@@ -106,31 +106,6 @@ In the midst of these challenges and opportunities for improvement, my feelings 
 As we continue our work, let's carry our ambition and hope forward, addressing challenges with a proactive mindset and maintaining the happiness that comes from contributing to a project that has the potential to make a real difference.
 
 
-
-## Week 4 (11.11.2023)
-
-[Group]
-* Progress: 
-  - Target Audience (Illiterate Elderly)
-  - OCBC Features: 2nd Party Guarantor (Discussion Details Pharse) 
-* Contribution:
-    - WireFrame for website (Do together with Travelle)
-
-
-[Person]
-* What went right: Each of our developers has has a better understanding what our main feature will look like so that we can proceed to development our main feature
-* What went wrong: We need to increase efficiency and the pace for the project development
-* What could done better: Make constant update with each other
-* My feelings: Ambitious, Happy, Hopeful 
-
-[Evidence]
-![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/6795c63b-852d-49b3-8e98-4903859db53d)
-
-
-[Reflection]
-As we delved into the intricacies of Week 4, our team diligently honed our focus on catering to the specific needs of our target audience—the elderly—while simultaneously exploring the integration possibilities of OCBC's 2nd Party Guarantor feature. Collaborating alongside Travelle, we embarked on crafting website wireframes, a collaborative effort that not only manifested tangible design blueprints but also fostered a deeper collective understanding of the intricate balance between aesthetics and functionality. This concerted effort proved invaluable as it equipped each member of our development team with a clearer vision and comprehension of the overarching architecture of our main feature. However, amidst our strides, an unmistakable realization dawned upon us—we needed to amplify our efficiency in the project's progression. The pace didn't quite align with our aspirations, prompting a deliberate introspection into our methodologies and workflow. Enhancing communication channels and establishing a regular update rhythm emerged as pivotal focal points for refinement. Nevertheless, amidst the contemplation and adjustments, the prevailing sentiments within the team remained resolutely positive. Ambition, happiness, and hopefulness have become the bedrock of our collective ethos. This buoyant atmosphere not only fuels our motivation but also underscores our shared dedication to the project's success. Reflecting on this dynamic interplay, I am driven to further fine-tune our strategies and foster an environment of seamless collaboration, thereby ensuring synchronized efforts and heightened productivity in the subsequent phases. The journey has been illuminating, and with these insights, we stand poised to steer our group towards greater efficiency and collective accomplishment.
-
-
 ## Week 4 (11.11.2023)
 
 [Group]
