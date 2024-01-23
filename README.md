@@ -195,6 +195,83 @@ As we delved into the intricacies of Week 5, this week saw notable progress in o
 Throughout this week, our team actively pursued the goal of improving our website to better accommodate the needs of the illiterate elderly audience. The proactive step of initiating discussions about integrating a new feature was a commendable move, reflecting our commitment to evolving our platform for enhanced user experience. However, while the initiative to brainstorm new features was a positive start, there's an opportunity for broader participation within the team. Encouraging everyone to actively contribute their ideas might yield a more comprehensive range of potential features, ensuring inclusivity in our decision-making process. Moreover, realizing the importance of understanding the nuanced challenges and preferences of our target demographic, we recognize the necessity of conducting deeper research. Engaging with experts or directly interacting with the illiterate elderly through interviews or surveys could unearth invaluable insights guiding our feature development. Clarity in defining specific objectives for this new feature will be pivotal in steering discussions towards actionable outcomes. Despite these areas for refinement, the week left a resonating feeling of ambition, happiness, and hopefulness within our team, underscoring our dedication to continually enhancing our platform for our audience's benefit.
 
 
+## Week 13 (09.01.2024)
+
+[Group]
+* Progress: 
+  - Target Audience (Illiterate  Elderly)
+  - Started researching and doing our own tasks
+* Contribution:
+    - Research on how to do our tasks
+    - Arranging Trello board
+
+
+[Person]
+*What went right:
+- Identified and defined the target audience clearly (Illiterate Elderly) for better focus.
+- Initiated individual tasks promptly, showcasing proactive teamwork.
+- Engaged in thorough research to gain insights into addressing the needs of the illiterate elderly.
+- Successfully implemented a text-to-speech feature on the website, enhancing accessibility.
+
+*#What went wrong:
+- No specific details provided about challenges or setbacks faced during the week.
+
+*What could be done better:
+- Include more specific details about the challenges faced to enable a more comprehensive understanding of the project dynamics.
+- Ensure ongoing communication within the team to address any potential roadblocks promptly.
+- Consider documenting specific lessons learned during the research phase to inform future decision-making processes.
+- Provide more details on the Trello board organization and how it contributes to the project's overall efficiency.
+
+* My feelings: Anxious, Loss, Optismistic 
+
+[Evidence]
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/c087407a-25a3-4505-aba7-ee094bc13f47)
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/dcec9500-51a1-45ac-98be-22f15c7b3509)
+
+
+
+[Reflection]
+This week marked a solid start for our group project with a focus on creating a website catering to the needs of illiterate elderly individuals. We successfully identified our target audience, pinpointing the illiterate elderly demographic to guide our development efforts effectively. The proactive approach of each team member in initiating individual tasks and contributing to collective research efforts has been a positive aspect of our collaboration.The implementation of a speech-to-text feature on our website represents a notable achievement, enhancing accessibility for our target audience. This decision aligns well with our commitment to creating an inclusive and user-friendly platform. However, our reflection lacks specific details about challenges or setbacks encountered during the week. It's essential to acknowledge and learn from these hurdles, as they often present valuable opportunities for growth. Moving forward, we should make a conscious effort to share and discuss any obstacles faced by team members, fostering a transparent and supportive environment. To improve our future efforts, we should consider documenting specific lessons learned during the research phase. This documentation can serve as a valuable resource, helping us make informed decisions as the project progresses. Additionally, maintaining open communication within the team is crucial to addressing any potential roadblocks promptly and ensuring a smooth workflow. The mention of arranging the Trello board is a positive indicator of our commitment to organized project management. However, including more details on how the Trello board is structured and how it contributes to the project's overall efficiency would provide a clearer picture of our workflow.
+
+
+## Week 14 (16.01.2024)
+
+[Group]
+* Progress: 
+  - Target Audience (Illiterate  Elderly)
+  - Continue to work and sharpening our work
+* Contribution:
+    - Work on our own task such as text-to-speech and the design of the webiste
+
+
+[Person]
+*What went right:
+  - Made steady progress on our respective tasks.
+  - The team effectively collaborated during our regular meetings.
+  - Achieved a smooth integration of the text-to-speech feature into the website.
+    
+*#What went wrong:
+ - Encountered challenges with the responsiveness of certain website elements.
+ - Faced difficulty in coordinating schedules for a few team members.
+   
+*What could be done better:
+ - Improve communication regarding task dependencies to avoid delays.
+ - Allocate specific time slots for collaborative problem-solving sessions.
+ - Conduct a brief training session for team members on handling responsive design challenges.
+
+* My feelings: Anxious, Hopeful, Optismistic 
+
+[Evidence]
+![image](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/da60e658-b9c9-4a11-ad3c-31bc34c2d8de)
+
+
+
+
+[Reflection]
+Week 14 proved to be a mixed experience for our group project. On the positive side, we successfully identified our target audience as illiterate elderly individuals and continued to refine our work. Individual contributions, such as implementing text-to-speech and working on the website design, demonstrated steady progress. Team collaboration during regular meetings was effective, leading to the smooth integration of the text-to-speech feature into the website. However, challenges arose in the form of website element responsiveness, causing some setbacks. Coordination of schedules with team members also proved to be a difficulty. Looking ahead, improved communication regarding task dependencies and dedicated time slots for collaborative problem-solving sessions are identified as areas for enhancement. Additionally, conducting brief training sessions on handling responsive design challenges could prove beneficial. Despite some anxiety, the overall sentiment remains hopeful and optimistic for the next phases of our project.
+
+
+
 
 
 
