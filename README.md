@@ -272,6 +272,48 @@ Week 14 proved to be a mixed experience for our group project. On the positive s
 
 
 
+## Week 15 (23.01.2024)
+
+[Group]
+* Progress: 
+  - Target Audience (Illiterate  Elderly)
+  - Continue to work and sharpening our work
+* Contribution:
+    - Sharing ideas with my group regarding to the feature and spliting out the work for sprint 4
+
+
+[Person]
+*What went right:
+  - Made steady progress on our respective tasks.
+  - The team effectively collaborated during our regular meetings.
+
+*#What went wrong:
+ - Encountered challenges with the responsiveness of certain website elements.
+ - Faced difficulty in integrating our work together
+   
+*What could be done better:
+ - Improve communication regarding task dependencies to avoid delays.
+ - Conduct a brief training session for team members on handling responsive design challenges.
+
+* My feelings: Anxious, Hopeful, Optismistic 
+
+[Evidence]
+![WhatsApp Image 2024-02-04 at 03 18 40_35abe1bb](https://github.com/jinjie-9/PFD-Experince-Blog/assets/115684616/fc43302b-8d89-437b-8244-e3e3cebebf53)
+
+
+
+
+
+[Reflection]
+n Week 15, our group centered its efforts on tailoring our project to cater to the needs of our target audience—the illiterate elderly. Our focus remained on refining our approach to accommodate the unique requirements of this demographic. Collaboratively, we engaged in ideation and task distribution for the upcoming sprint, fostering a sense of unity within the team. I actively participated in group discussions, contributing valuable insights and ideas. This collaborative effort significantly influenced the steady progress we achieved in understanding our target audience and adjusting our project accordingly. On a personal level, I take pride in the consistent progress on my individual tasks. The dynamics during our regular meetings proved effective, promoting constructive discussions and facilitating decision-making within the team. However, challenges emerged, particularly with responsive design issues for certain website elements. Integrating individual contributions revealed unforeseen complexities, resulting in hurdles in our progress. Reflecting on our experiences, communication regarding task dependencies could have been more explicit, leading to delays and hindering the seamless integration of our work. Implementing a more detailed task management system may mitigate such issues in the future. To address the responsive design challenges, organizing a brief training session could benefit the team collectively. Proactively equipping ourselves with these skills would enhance our ability to address similar issues more efficiently in subsequent sprints. Emotionally, I find myself navigating a mix of anxiety, hope, and optimism. Despite challenges, the hope arises from addressing communication gaps and planning relevant training. The team's enthusiasm and dedication foster optimism, reinforcing my belief in our collective ability to navigate challenges successfully. As we move into the next sprint, I am optimistic that the lessons learned this week will contribute to a more streamlined and effective workflow, ultimately leading to the success of our project.
+
+
+
+
+
+
+
+
 
 
 
