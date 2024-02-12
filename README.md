@@ -306,9 +306,68 @@ Week 14 proved to be a mixed experience for our group project. On the positive s
 
 
 [Reflection]
-n Week 15, our group centered its efforts on tailoring our project to cater to the needs of our target audience—the illiterate elderly. Our focus remained on refining our approach to accommodate the unique requirements of this demographic. Collaboratively, we engaged in ideation and task distribution for the upcoming sprint, fostering a sense of unity within the team. I actively participated in group discussions, contributing valuable insights and ideas. This collaborative effort significantly influenced the steady progress we achieved in understanding our target audience and adjusting our project accordingly. On a personal level, I take pride in the consistent progress on my individual tasks. The dynamics during our regular meetings proved effective, promoting constructive discussions and facilitating decision-making within the team. However, challenges emerged, particularly with responsive design issues for certain website elements. Integrating individual contributions revealed unforeseen complexities, resulting in hurdles in our progress. Reflecting on our experiences, communication regarding task dependencies could have been more explicit, leading to delays and hindering the seamless integration of our work. Implementing a more detailed task management system may mitigate such issues in the future. To address the responsive design challenges, organizing a brief training session could benefit the team collectively. Proactively equipping ourselves with these skills would enhance our ability to address similar issues more efficiently in subsequent sprints. Emotionally, I find myself navigating a mix of anxiety, hope, and optimism. Despite challenges, the hope arises from addressing communication gaps and planning relevant training. The team's enthusiasm and dedication foster optimism, reinforcing my belief in our collective ability to navigate challenges successfully. As we move into the next sprint, I am optimistic that the lessons learned this week will contribute to a more streamlined and effective workflow, ultimately leading to the success of our project.
+In Week 15, our group centered its efforts on tailoring our project to cater to the needs of our target audience—the illiterate elderly. Our focus remained on refining our approach to accommodate the unique requirements of this demographic. Collaboratively, we engaged in ideation and task distribution for the upcoming sprint, fostering a sense of unity within the team. I actively participated in group discussions, contributing valuable insights and ideas. This collaborative effort significantly influenced the steady progress we achieved in understanding our target audience and adjusting our project accordingly. On a personal level, I take pride in the consistent progress on my individual tasks. The dynamics during our regular meetings proved effective, promoting constructive discussions and facilitating decision-making within the team. However, challenges emerged, particularly with responsive design issues for certain website elements. Integrating individual contributions revealed unforeseen complexities, resulting in hurdles in our progress. Reflecting on our experiences, communication regarding task dependencies could have been more explicit, leading to delays and hindering the seamless integration of our work. Implementing a more detailed task management system may mitigate such issues in the future. To address the responsive design challenges, organizing a brief training session could benefit the team collectively. Proactively equipping ourselves with these skills would enhance our ability to address similar issues more efficiently in subsequent sprints. Emotionally, I find myself navigating a mix of anxiety, hope, and optimism. Despite challenges, the hope arises from addressing communication gaps and planning relevant training. The team's enthusiasm and dedication foster optimism, reinforcing my belief in our collective ability to navigate challenges successfully. As we move into the next sprint, I am optimistic that the lessons learned this week will contribute to a more streamlined and effective workflow, ultimately leading to the success of our project.
 
 
+## Week 16 (30.01.2024)
+
+[Group]
+
+Progress:
+Successfully implemented the Text-to-Speech and Speech-to-Text features.
+Continued refining our project to cater to the needs of our target audience (Illiterate Elderly).
+Contribution:
+Actively participated in ideation and task distribution for sprint 4.
+Contributed ideas for improving the Text-to-Speech and Speech-to-Text features.
+[Person]
+
+What went right:
+
+Successfully implemented the Text-to-Speech and Speech-to-Text features, enhancing accessibility for our target audience.
+The team effectively collaborated during our regular meetings, fostering a sense of unity.
+What went wrong:
+
+Encountered challenges with the responsiveness of certain website elements.
+Faced difficulty in integrating our work seamlessly.
+What could be done better:
+
+Improve communication regarding task dependencies to avoid delays.
+Organize a brief training session for team members on handling responsive design challenges.
+My feelings: Anxious, Hopeful, Optimistic
+
+[Reflection]
+In Week 16, our group achieved a significant milestone by successfully implementing the Text-to-Speech and Speech-to-Text features, enhancing the accessibility of our project for the illiterate elderly. We continued refining our approach to meet the unique needs of our target audience, fostering collaboration and unity within the team. I actively contributed to ideation and task distribution for sprint 4, sharing insights and ideas to enhance our project's effectiveness. The successful implementation of the accessibility features reflects our collective dedication and effective collaboration. However, challenges with website responsiveness and integration persisted, highlighting areas for improvement. Enhancing communication around task dependencies and organizing training sessions to address responsive design challenges could improve our workflow and efficiency in future sprints. Despite challenges, I remain hopeful and optimistic about our project's success. The team's enthusiasm and dedication, coupled with our ability to address challenges proactively, fuel my optimism for the future. As we move forward, I am confident that our experiences and lessons learned will contribute to a more streamlined and successful project outcome.
+
+
+## Week 17 (06.02.2024)
+
+[Group]
+
+Progress:
+Successfully completed the web banking application, including the implementation of Text-to-Speech and Speech-to-Text features.
+Continued refining our project to cater to the needs of our target audience (Illiterate Elderly).
+Contribution:
+Actively participated in ideation and task distribution for sprint 4.
+Contributed ideas for improving the Text-to-Speech and Speech-to-Text features.
+
+[Person]
+
+What went right:
+
+Successfully completed the web banking application, enhancing accessibility for our target audience.
+The team effectively collaborated during our regular meetings, fostering a sense of unity.
+What went wrong:
+
+Encountered challenges with the responsiveness of certain website elements.
+Faced difficulty in integrating our work seamlessly.
+What could be done better:
+
+Improve communication regarding task dependencies to avoid delays.
+Organize a brief training session for team members on handling responsive design challenges.
+My feelings: Anxious, Hopeful, Optimistic
+
+[Reflection]
+In Week 17, our group celebrated the completion of the web banking application, a significant milestone in our project journey. The successful implementation of the Text-to-Speech and Speech-to-Text features further enhanced accessibility for our target audience, the illiterate elderly. We maintained our focus on refining the project to meet their unique needs, fostering collaboration and unity within the team. Personally, I actively contributed to sprint 4's ideation and task distribution, sharing insights to improve our project's effectiveness. While we achieved success in completing the application, challenges with website responsiveness and integration persisted, revealing areas for improvement. Strengthening communication regarding task dependencies and organizing training sessions to address responsive design challenges are steps we can take to enhance our workflow and efficiency in future endeavors. Despite challenges, feelings of anxiety are balanced by hope and optimism for our project's success. The team's dedication and proactive approach reassure me of our ability to overcome obstacles and achieve our goals. Looking ahead, I am confident that the experiences and lessons learned will contribute to the success of our group project presentation, further solidifying our commitment to serving our target audience effectively.
 
 
 
